@@ -9,4 +9,14 @@
    - 2. Nf3 Nc6
    - 3. d4
 
+Start the program in interactive mode:
+
+```bash
+python -m scacchi.main
+```
+
+```bash
+uv run -m scacchi.main
+```
+
 ![chessboard](docs/img/scacchiera.png)
