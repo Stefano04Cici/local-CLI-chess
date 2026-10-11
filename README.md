@@ -9,7 +9,7 @@
    - 2. Nf3 Nc6
    - 3. d4
 
-Start the program in interactive mode:
+To start the program:
 
 ```bash
 python -m scacchi.main
